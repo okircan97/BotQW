@@ -1,7 +1,5 @@
 # BotQW
-A Python-based automation tool designed for interact with a game client, automating repetitive tasks.
-
-# Objective: Developed a sophisticated automation tool in Python to interact with a game client, designed to automate repetitive tasks and manage game interactions dynamically.
+#  A Python-based automation tool designed for interact with AQW game client, automating repetitive tasks.
 
 # Core Technologies:
 Python: Main programming language for scripting the automation logic.
